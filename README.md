@@ -22,3 +22,13 @@ How to run the Project.
 2. Install the dependencies "npm i"
 3. Run the frontend "npm run dev"
 4. Run the backend "npm run server"
+
+
+How to run the project with live vercel link.
+1. 1. clone the project.
+2. Install the dependencies "npm i"
+3. only run the "npm run server".
+4. Now the frontend will request apis on localhost:3001/api which is running on local machine.
+
+
+
